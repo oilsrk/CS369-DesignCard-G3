@@ -109,13 +109,13 @@ img {
 
 
 /* Responsive design 2 breakpoint */
-@media (min-width: 640px) {
+@media screen and (min-width: 640px) {
   .cards_item {
     width: 50%;
   }
 }
 
-@media (min-width: 896px) {
+@media  screen and (min-width: 896px) {
   .cards_item {
     width: 33.3333%;
   }
